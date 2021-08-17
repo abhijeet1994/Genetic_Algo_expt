@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -Wall -Wextra -Wpedantic -O3  -shared -Wl,-soname,libgeneticAlgo.so -o libgeneticAlgo.so CMakeFiles/geneticAlgo.dir/src/genetic_algo.cpp.o 

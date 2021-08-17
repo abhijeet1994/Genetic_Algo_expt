@@ -1,0 +1,66 @@
+Sr. No.,Item,Classification,Type,Protein,Carbohydates,Fats,Kcal updated,Price,Quantity,Actual Kcal,Kcal Reals
+1,ChickenFriedSteak,Main,NonVeg,30,2,5,173,24,100,173,170
+2,HoneyMusturdGrilledChicken,Main,NonVeg,30,2,5,173,24,100,173,170
+3,Chicken Tikka,Main,Non – Veg,30,2,5,173,24,100,173,170
+4,Chicken Kebabs,Main,Non – Veg,30,2,5,173,24,100,173,170
+5,Tandoori Chicken,Main,Non – Veg,30,2,5,173,24,100,173,170
+6,Lemon Chicken,Main,Non – Veg,30,2,5,173,24,100,173,170
+7,Chicken seekh,Main,Non – Veg,30,2,5,173,24,100,173,170
+8,Chicken hara bhara kabab,Main,Non – Veg,30,2,5,173,24,100,173,170
+9,Soya Tikki,Main,Veg,17,10,9,189,20,100,189,173
+10,Paneer Achari,Main,Veg,18,2,25,305,28,100,305,320
+11,Paneer Kebab,Main,Veg,18,2,25,305,28,100,305,320
+12,Mutton Kheema,Main,Non – Veg,25,0,25,325,55,100,325,294
+13,Mutton Seekh Kebab,Main,Non – Veg,25,0,25,325,55,100,325,294
+14,Chicken Achari,Main,Non – Veg,30,2,5,173,24,100,173,170
+15,Mushroom Tandoori,Main,Veg,3,1,3,43,37,100,43,22
+16,Babycorn Tandoori,Main,Veg,3,10,4,88,30,100,88,50
+17,Egg,Side,Non – Veg,10,1,8,116,8,100,116,100
+18,Corn Chat,Side,Veg,3,10,4,88,30,100,88,50
+19,Stuffed Capsicum,Side,Veg,1,5,1,33,5,100,33,22
+20,Baked Veggies,Side,Veg,1,5,5,69,10,100,69,25
+21,Lettuce,Veggies,Veg,2,6.5,0,34,25,100,34,42
+22,Onion,Veggies,Veg,2,15,0,68,5,100,68,64
+23,Capsicum,Veggies,Veg,1,5,1,33,5,100,33,22
+24,Tomato,Veggies,Veg,1,4,4,56,2,100,56,18
+25,Brocolli,Veggies,Veg,17,2,1,85,15,100,85,80
+26,Cabbage,Veggies,Veg,1,3,1,25,4,100,25,25
+27,Babycorn,Veggies,Veg,3,10,4,88,30,100,88,50
+28,Olives,Veggies,Veg,1,5,13,141,44,100,141,80
+29,Jalapeno,Veggies,Veg,1,5,1,33,40,100,33,28
+30,Bellpepers,Veggies,Veg,1,5,1,33,5,100,33,22
+31,Spinach,Veggies,Veg,3,1,4,52,10,100,52,23
+32,Kale,Veggies,Veg,4,1,9,101,60,100,101,49
+33,Honeyoat,Bread,Veg,5,28,2,150,8,2 piece,150,145
+34,Whole Wheat,Bread,Veg,5,28,2,150,8,2 piece,150,145
+35,Multigrain,Bread,Veg,5,28,2,150,8,2 piece,150,145
+36,Celery leaves,Veggies,Veg,1,0,1,13,200,100,13,16
+37,Chicken Curry,Indy - Main,Non - Veg,20,1,4,120,18,100,120,130
+38,Rajma Curry,Indy - Main,Veg,4,4,14,158,13,100,158,110
+39,Egg Curry,Indy - Main,Non - Veg,10,1,8,116,8,100,116,100
+40,Bhakhri,Indy - Side,Veg,6,32,4,188,4,100,188,180
+41,Roti,Indy - Side,Veg,4,60,8,328,4,100,328,240
+42,Brown Rice,Indy - Side,Veg,3,23,1,113,16,100,113,110
+43,Jowar Khichdi,Single,Veg,6,32,4,188,4,100,188,180
+44,Brown Rice Chicken biryani,Single,Non - Veg,16,16,4,164,60,100,164,230
+45,Bajra Khichdi,Single,Veg,12,67,5,361,8,100,361,360
+46,AA,Dressing,Veg,1,1,9,89,10,100,89,90
+47,AB,Dressing,Veg,1,1,9,89,10,100,89,90
+48,AC,Dressing,Veg,1,1,9,89,10,100,89,90
+49,AD,Dressing,Veg,1,1,9,89,10,100,89,90
+50,AE,Dressing,Veg,1,1,9,89,10,100,89,90
+51,Chicken clear soup,Soup,Non - Veg,15,1,3,91,12,1 plate,91,85
+52,Veg clear Soup,Soup,Veg,1,4,4,56,20,100 gm,56,18
+53,Tomato Soup,Soup,Veg,1,4,4,56,10,100 gm,56,18
+54,Garlic Chicken Soup,Soup,Non - Veg,15,1,3,91,12,1 plate,91,85
+55,Mushroom Soup,Soup,Veg,3,1,3,43,20,100 gm,43,22
+56,Sweet Potato fries,Snacks,Veg,2,20,1,97,10,100 gm,97,86
+57,Dhokla,Snacks,Veg,18,50,2,290,10,100 gm,290,350
+58,Chicken Nuggets,Snacks,Non - Veg,16,24,16,304,40,1 plate,304,350
+59,Egg Dosa,Snacks,Non - Veg,10,21,8,196,12,1 plate,196,153
+60,Lettuce rolls,Snacks,Veg,11,30,10,254,25,1 plate,254,260
+61,Apple,Fruit,Veg,1,1,1,17,25,1 juice,17,10
+62,Watermelon,Fruit,Veg,1,1,1,17,25,1 juice,17,10
+63,Orange,Fruit,Veg,1,1,1,17,25,1 juice,17,10
+64,Pineapple,Fruit,Veg,1,1,1,17,25,1 juice,17,10
+65,Grapes,Fruit,Veg,1,1,1,17,25,1 juice,17,10

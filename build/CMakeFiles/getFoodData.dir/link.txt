@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -Wall -Wextra -Wpedantic -O3  -shared -Wl,-soname,libgetFoodData.so -o libgetFoodData.so CMakeFiles/getFoodData.dir/src/getFoodData.cpp.o 

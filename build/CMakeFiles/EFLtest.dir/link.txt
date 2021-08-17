@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra -Wpedantic -O3   CMakeFiles/EFLtest.dir/src/main.cpp.o  -o EFLtest  -Wl,-rpath,/home/abhi/ga-cpp/build libgetFoodData.so libgeneticAlgo.so 

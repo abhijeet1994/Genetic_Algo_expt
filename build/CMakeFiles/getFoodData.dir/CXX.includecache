@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/getFoodData.h
+vector
+-
+string
+-
+fstream
+-
+sstream
+-
+stdexcept
+-
+iostream
+-
+iterator
+-
+algorithm
+-
+boost/algorithm/string.hpp
+-
+map
+-
+
+/home/abhi/ga-cpp/src/getFoodData.cpp
+getFoodData.h
+/home/abhi/ga-cpp/src/getFoodData.h
+

@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra -Wpedantic -O3   CMakeFiles/PAGMOtest.dir/src/tutorial1.cpp.o  -o PAGMOtest  -Wl,-rpath,/home/abhi/ga-cpp/build:/usr/local/lib libgetFoodData.so libgeneticAlgo.so /usr/local/lib/libpagmo.so.7.0 -pthread /usr/lib/x86_64-linux-gnu/libboost_serialization.so.1.71.0 
